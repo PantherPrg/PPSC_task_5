@@ -3,7 +3,7 @@
 
 You are in charge of packaging New York pizza for a delivery company. And, to take full advantage of the square pizza boxes, you need to find the optimal size for a pizza that is 0.5 inches from the edges of each side. 
 
-**Use 3.14 as pi and round your answer to the tenth. do not round elsewhere.*
+**Use 3.14 as pi and round your final answer to the tenth. do not round elsewhere.*
 __________________________________________________________________________________
 **Input**:
 You are given the area of the pizza box. 

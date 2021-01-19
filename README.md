@@ -13,6 +13,6 @@ Return a float as a string of the area of the pizza and make sure to add a newli
 __________________________________________________________________________________
 This problem deals with variable calculations, datatype casting, float rounding, and simple math. 
 
-For additional help, either ask Paul, Joshua, Mr. Blatner, or any other staff member for assistance. If multiple people have the same obstacles, we would be able to go over them during the club. 
+For additional help, either ask Paul, Joshua, Mr. Blattner, or any other staff member for assistance. If multiple people have the same obstacles, we would be able to go over them during the club. 
 
 Otherwise, you can use https://www.w3schools.com/python/python_casting.asp for datatype casting, https://stackoverflow.com/questions/19431674/rounding-floats-to-nearest-10th (a stackoverflow thread) for rounding.

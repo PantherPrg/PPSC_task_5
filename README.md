@@ -11,6 +11,8 @@ ________________________________________________________________________________
 **Output**:
 Return a float as a string of the area of the pizza and make sure to add a newline at the end of your returned answer. This is needed to match the format for the task result.
 __________________________________________________________________________________
+**optional challenge: write your code in under 4 lines**
+
 This problem deals with variable calculations, datatype casting, float rounding, and simple math. 
 
 For additional help, either ask Paul, Joshua, Mr. Blattner, or any other staff member for assistance. If multiple people have the same obstacles, we would be able to go over them during the club. 
